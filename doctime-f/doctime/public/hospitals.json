@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "ABC Hospital",
+    "address": "123 Main St",
+    "phone": "123-456-7890",
+    "type": "Hospital",
+    "image": "https://th.bing.com/th/id/OIP.js_m--7-FZoWCNrtRA-kQwHaFj?w=233&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "DEF Hospital",
+    "address": "456 Oak St",
+    "phone": "987-654-3210",
+    "type": "Hospital",
+    "image": "https://th.bing.com/th/id/OIP.Go7PKFobKLkb0y71gheC-QHaGD?w=213&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "DEF Hospital",
+    "address": "789 Maple St",
+    "phone": "234-567-8900",
+    "type": "Hospital",
+    "image": "https://th.bing.com/th/id/OIP.5YLjjVo-DQovOc_W1goUuAHaG7?w=187&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "GHI Hospital",
+    "address": "321 Pine St",
+    "phone": "890-123-4567",
+    "type": "Hospital",
+    "image": "https://th.bing.com/th/id/OIP.1nyXegXTko0Z4deptxg28QHaFv?w=217&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "JKL Hospital",
+    "address": "567 Birch St",
+    "phone": "456-789-0123",
+    "type": "Hospital",
+    "image": "https://th.bing.com/th/id/OIP.TKsuwo6wr5wlm2oNa40yRwHaFN?w=250&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "ABC Clinic",
+    "address": "789 Elm St",
+    "phone": "456-789-1230",
+    "type": "Clinic",
+    "image": "https://th.bing.com/th/id/OIP.Jt6nXFBmkC4Q64DSjxPS5AAAAA?w=134&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "name": "XYZ Clinic",
+    "address": "101 Maple St",
+    "phone": "321-654-9870",
+    "type": "Clinic",
+    "image": "https://th.bing.com/th/id/OIP.RmTULh1EcyKiz5iexu7s-wHaFI?w=286&h=199&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "Health Plus Clinic",
+    "address": "202 Pine St",
+    "phone": "234-567-8901",
+    "type": "Clinic",
+    "image": "https://th.bing.com/th/id/OIP.ImZFOlvQ69q-tByrSTEY9wHaE7?w=294&h=197&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Wellness Clinic",
+    "address": "303 Cedar St",
+    "phone": "567-890-1234",
+    "type": "Clinic",
+    "image": "https://th.bing.com/th/id/OIP.wR8yk2U7349S_qt6pOb4KwHaE8?w=281&h=188&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Care Clinic",
+    "address": "404 Birch St",
+    "phone": "890-123-4567",
+    "type": "Clinic",
+    "image": "https://th.bing.com/th/id/OIP.QjrOM-Shq5j-SyeU_b6KuQHaE8?w=268&h=180&c=7&r=0&o=5&pid=1.7",
+    "rating": 4.7
+  }
+]

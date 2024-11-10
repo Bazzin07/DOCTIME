@@ -1,0 +1,174 @@
+{
+    "hospitals": {
+      "1": {
+        "name": "ABC Hospital",
+        "doctors": [
+          {
+            "name": "Dr. John Doe",
+            "specialty": "Cardiology",
+            "charges": 500,
+            "timings": "9 AM - 1 PM"
+          },
+          {
+            "name": "Dr. Jane Smith",
+            "specialty": "Neurology",
+            "charges": 600,
+            "timings": "2 PM - 6 PM"
+          },
+          {
+            "name": "Dr. Alice Johnson",
+            "specialty": "Orthopedics",
+            "charges": 550,
+            "timings": "10 AM - 4 PM"
+          },
+          {
+            "name": "Dr. Michael Brown",
+            "specialty": "Pediatrics",
+            "charges": 450,
+            "timings": "11 AM - 3 PM"
+          },
+          {
+            "name": "Dr. Sarah Williams",
+            "specialty": "Dermatology",
+            "charges": 500,
+            "timings": "1 PM - 5 PM"
+          }
+        ]
+      },
+      "2": {
+        "name": "XYZ Hospital",
+        "doctors": [
+          {
+            "name": "Dr. Aradhya Rahul Pandey",
+            "specialty": "Pediatrics",
+            "charges": 400,
+            "timings": "10 AM - 3 PM"
+          },
+          {
+            "name": "Dr. Robert Davis",
+            "specialty": "Oncology",
+            "charges": 700,
+            "timings": "12 PM - 4 PM"
+          },
+          {
+            "name": "Dr. Lisa Wilson",
+            "specialty": "General Surgery",
+            "charges": 800,
+            "timings": "8 AM - 12 PM"
+          },
+          {
+            "name": "Dr. James Taylor",
+            "specialty": "Gastroenterology",
+            "charges": 650,
+            "timings": "3 PM - 7 PM"
+          },
+          {
+            "name": "Dr. Patricia Martinez",
+            "specialty": "Radiology",
+            "charges": 550,
+            "timings": "9 AM - 2 PM"
+          }
+        ]
+      },
+      "3": {
+        "name": "DEF Hospital",
+        "doctors": [
+          {
+            "name": "Dr. Mark Taylor",
+            "specialty": "Cardiology",
+            "charges": 600,
+            "timings": "10 AM - 2 PM"
+          },
+          {
+            "name": "Dr. Natalie Green",
+            "specialty": "Neurology",
+            "charges": 650,
+            "timings": "3 PM - 7 PM"
+          }
+        ]
+      },
+      "4": {
+        "name": "GHI Hospital",
+        "doctors": [
+          {
+            "name": "Dr. Frank Harris",
+            "specialty": "Pediatrics",
+            "charges": 450,
+            "timings": "9 AM - 1 PM"
+          },
+          {
+            "name": "Dr. Laura Thompson",
+            "specialty": "Oncology",
+            "charges": 750,
+            "timings": "2 PM - 6 PM"
+          }
+        ]
+      },
+      "5": {
+        "name": "JKL Hospital",
+        "doctors": [
+          {
+            "name": "Dr. Aran",
+            "specialty": "Pediatrics",
+            "charges": 450,
+            "timings": "9 AM - 1 PM"
+          },
+          {
+            "name": "Dr. Elbert",
+            "specialty": "Oncology",
+            "charges": 750,
+            "timings": "2 PM - 6 PM"
+          }
+        ]
+      }
+      
+    },
+    "clinics": {
+      "6": {
+        "name": "ABC Clinic",
+        "doctor": {
+          "name": "Dr. Olivia Green",
+          "specialty": "General Practice",
+          "charges": 300,
+          "timings": "9 AM - 5 PM"
+        }
+      },
+      "7": {
+        "name": "XYZ Clinic",
+        "doctor": {
+          "name": "Dr. Charles White",
+          "specialty": "Family Medicine",
+          "charges": 250,
+          "timings": "10 AM - 4 PM"
+        }
+      },
+      "8": {
+        "name": "Health Plus Clinic",
+        "doctor": {
+          "name": "Dr. Mary Jones",
+          "specialty": "Internal Medicine",
+          "charges": 320,
+          "timings": "11 AM - 6 PM"
+        }
+      },
+      "9": {
+        "name": "Wellness Clinic",
+        "doctor": {
+          "name": "Dr. Steven Lee",
+          "specialty": "Endocrinology",
+          "charges": 400,
+          "timings": "8 AM - 2 PM"
+        }
+      },
+      "10": {
+        "name": "Care Clinic",
+        "doctor": {
+          "name": "Dr. Michelle Taylor",
+          "specialty": "Obstetrics and Gynecology",
+          "charges": 500,
+          "timings": "9 AM - 3 PM"
+        }
+      }
+    }
+  }
+  
